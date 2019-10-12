@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c62190a-ce16-401e-910e-7256c84dbb64" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/SelectColors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/ColorBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ColorBox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/contexts/color.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/contexts/color.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,8 +39,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/components/ColorBox.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="56">
-                      <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+                    <state relative-caret-position="350">
+                      <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
                       <folding>
                         <element signature="e#0#42#0" expanded="true" />
                       </folding>
@@ -62,8 +59,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/src/contexts/color.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="378">
-                      <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+                    <state relative-caret-position="434">
+                      <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
                     </state>
                   </provider>
                 </entry>
@@ -94,9 +91,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/contexts/SelectColor.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/components/ColorBox.js" />
         <option value="$PROJECT_DIR$/src/contexts/color.js" />
+        <option value="$PROJECT_DIR$/src/components/ColorBox.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
       </list>
     </option>
   </component>
@@ -288,7 +285,7 @@
       <option name="presentableId" value="Default" />
       <updated>1570794072435</updated>
       <workItem from="1570794074911" duration="1943000" />
-      <workItem from="1570846926290" duration="2926000" />
+      <workItem from="1570846926290" duration="3944000" />
     </task>
     <task id="LOCAL-00001" summary="191011(금) - Context API">
       <created>1570851759063</created>
@@ -297,14 +294,22 @@
       <option name="project" value="LOCAL" />
       <updated>1570851759063</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="191011(금)_02 - Context API">
+      <created>1570854012764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570854012764</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4869000" />
+    <option name="totallyTimeSpent" value="5887000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="1" width="3852" height="1046" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.055980988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -334,33 +339,14 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="191011(금) - Context API" />
-    <option name="LAST_COMMIT_MESSAGE" value="191011(금) - Context API" />
+    <MESSAGE value="191011(금)_02 - Context API" />
+    <option name="LAST_COMMIT_MESSAGE" value="191011(금)_02 - Context API" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/ColorBox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -376,8 +362,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/contexts/color.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="434">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ColorBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
